@@ -1,0 +1,6 @@
+# Folders for packages
+/node_modules/
+/bower_components/
+
+# Logs
+*.log
